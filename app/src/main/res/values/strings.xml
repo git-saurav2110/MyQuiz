@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="my_quiz">My Quiz</string>
+    <string name="TRUE">true</string>
+    <string name="FALSE">false</string>
+    <string name="correct_answer">that\'s correct</string>
+    <string name="wrong_answer">thats\'s incorrect</string>
+    <string name="question_declaration">India is declared Independent on 15th August 1947.</string>
+    <string name ="qusetion_jalia">JaliaWala Bagh Hatyakand happened on 13th April 1916.</string>
+    <string name="question_pm">Lal Bahadur shastri ji was the first P.M of India.</string>
+    <string name="question_president"> Dr.Rajendra Prasad was the first president of India.</string>
+    <string name="question_republic">India\'s republic day is celebrated on 26th january.</string>
+    <string name="next_text">next</string>
+</resources>
